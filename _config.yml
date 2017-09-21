@@ -1,8 +1,8 @@
-name: Jekyll Themes
-url: http://matt.harzewski.com
-description: Insert tagline here
+name: The Chew Lab @ Genome Institute of Singapore
+url: https://chewlab.github.io
+description: The Chew Lab
 
-permalink: /themes/:title/
+permalink: /themes/:Spectral/
 
 gems: [jekyll-paginate]
 
